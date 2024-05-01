@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROG8170_W23_Midterm_DNF", "PROG8170_W23_Midterm_DNF\PROG8170_W23_Midterm_DNF.csproj", "{F059E190-D284-46F1-AAAB-3900137062C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleTest", "RectangleTest\RectangleTest.csproj", "{B2021E8D-386C-4AE7-9CB5-FED367E1DE75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F059E190-D284-46F1-AAAB-3900137062C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F059E190-D284-46F1-AAAB-3900137062C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F059E190-D284-46F1-AAAB-3900137062C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F059E190-D284-46F1-AAAB-3900137062C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2021E8D-386C-4AE7-9CB5-FED367E1DE75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2021E8D-386C-4AE7-9CB5-FED367E1DE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2021E8D-386C-4AE7-9CB5-FED367E1DE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2021E8D-386C-4AE7-9CB5-FED367E1DE75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80FAE9FE-F593-4BE1-83BE-78FDAC9F7084}
+	EndGlobalSection
+EndGlobal
